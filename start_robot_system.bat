@@ -1,0 +1,1 @@
+activate pytorch_gpu && python socket_main.py

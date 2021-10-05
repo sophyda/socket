@@ -1,0 +1,1 @@
+activate pytorch_gpu && python kinect_socket.py
